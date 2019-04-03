@@ -1,0 +1,17 @@
+<script type="text/javascript">
+	$(function() { 
+	  $('input[type="checkbox"]').bind('click',function() {
+	    $('input[type="checkbox"]').not(this).prop("checked", false);
+	  }); 
+	});
+
+	$('form').submit(function() {
+		var field = $("input[type=checkbox]").serializeArray();
+		if (field.length == 0){
+			alert('Anda Harus Memilih Salah Satu Metode Pembayaran');
+			return false;
+		} else { 
+			window.open('<?php echo base_url(); ?>laporan/laporan_transaksi','popup','width=1024, height=800,scrollbars=yes');
+		}
+	});
+</script>

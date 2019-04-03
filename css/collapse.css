@@ -1,0 +1,29 @@
+<style type="text/css">
+#headerDiv, #contentDiv {float:left;width:510px;}
+#headerDiv a {float:right;margin:10px 10px 5px 5px;}
+#myHeader {font-size:1.1em;font-weight:bold;margin:5px;float:left;}
+#titleText {font-size:1.3em;font-weight:bold;margin:8px;}
+#headerDiv {background-color:#a0a0a0;color:#ffffff;}
+#contentDiv {background-color:#f0f0f0;}
+#myContent {margin:1px;}
+.col {
+	float: right;
+}
+
+#scroll{
+  width: auto;
+  background: white;
+  padding: 10px;
+  overflow: scroll;
+  height: 130px;
+  
+  /*script tambahan khusus untuk IE */
+  scrollbar-face-color: #CE7E00; 
+  scrollbar-shadow-color: #FFFFFF; 
+  scrollbar-highlight-color: #6F4709; 
+  scrollbar-3dlight-color: #11111; 
+  scrollbar-darkshadow-color: #6F4709; 
+  scrollbar-track-color: #FFE8C1; 
+  scrollbar-arrow-color: #6F4709;
+}
+</style>

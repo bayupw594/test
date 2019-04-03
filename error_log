@@ -1,0 +1,9 @@
+[21-Feb-2019 01:05:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[21-Feb-2019 01:05:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[21-Feb-2019 01:05:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[21-Feb-2019 01:05:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[21-Feb-2019 16:15:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on null in /home/baqirid/public_html/rental/application/views/admin/peminjaman.php on line 506
+[21-Feb-2019 19:07:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[21-Feb-2019 19:07:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/updateanggota.php on line 8
+[15-Mar-2019 19:21:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/modal_anggota.php on line 18
+[15-Mar-2019 19:22:02 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/baqirid/public_html/rental/application/views/admin/modal_gaji.php on line 18
